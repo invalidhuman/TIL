@@ -9,7 +9,7 @@ def bfs(grid, n, m):
     dy = [0, 0, -1, 1]
 
     # 시작점 (0,0)을 큐에 넣고 방문 처리
-    queue = deque([(0, 0)])
+    queue = deque([(0, 0)])`
     visited = [[False] * m for _ in range(n)]
     visited[0][0] = True
 
