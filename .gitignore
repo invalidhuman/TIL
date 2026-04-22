@@ -1,0 +1,9 @@
+# Obsidian 개인 작업공간 설정
+.obsidian/
+*.canvas
+
+# oh-my-claudecode 로컬 상태 (절대경로/개인 정보 포함)
+.omc/
+
+# macOS
+.DS_Store
