@@ -11,48 +11,40 @@
 
 ### 🌐 Network
 
-네트워크 계층, HTTP 프로토콜, 통신 단위 등 웹 통신의 기초.
-
-- [OSI 7계층 / TCP-IP 4계층](./Network/OSI,TCPIP.md) — 계층 모델 비교와 역할
-- [Body와 Header의 차이](./Network/Body와%20Header의%20차이.md) — 메타 정보 vs 실제 데이터
-- [HTTP와 HTML](./Network/HTTP와%20HTML.md) *(작성 예정)*
+- [Body와 Header의 차이](./Network/Body%EC%99%80%20Header%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- [HTTP와 HTML](./Network/HTTP%EC%99%80%20HTML.md)
+- [OSI,TCPIP](./Network/OSI%2CTCPIP.md)
 
 ### 🖥️ OS (운영체제)
 
-운영체제의 실행 단위와 자원 관리.
-
-- [프로세스와 스레드](./OS/멀티프로세스와멀티스레드.md) — 메모리 구조, 멀티프로세스 vs 멀티스레드
+- [프로세스(Process)와 스레드(Thread)의 정의 및 차이](./OS/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
 ### 🧩 Algorithm
 
-자료구조와 알고리즘 풀이 정리.
-
-- [BFS (너비 우선 탐색)](./Algorithm/BFS.md) — 2차원 배열 BFS 템플릿
+- [BFS](./Algorithm/BFS.md)
 
 ### 🎨 Frontend
 
-#### 인증 / 보안
-
-- [OAuth 2.0 Authorization Code Flow](./Frontend/OAuth.md) — 권한 위임 프로토콜의 표준 흐름
-
-#### 브라우저 내부 동작
-
-- [웹 워커 (Web Worker)](./Frontend/웹%20워커.md) — 메인 스레드 분리와 백그라운드 연산
-- [서비스 워커 (Service Worker)](./Frontend/서비스%20워커.md) — fetch 가로채기, 캐싱, 오프라인 지원
-
-#### 렌더링
-
-- [웹 렌더링 패턴](./Frontend/Rendering/웹%20렌더링%20패턴.md) — CSR / SSR / SSG / ISR 비교
-- [URI, URL, URN](./Frontend/Rendering/URI,%20URL,%20URN.md) — 자원 식별자 개념 정리
-
-#### React / Framework
-
-- [가상 DOM과 리액트 파이버](./Frontend/모던리액트DeepDive/가상DOM과%20리액트%20파이버.md) — DOM, CSSOM, 렌더링 파이프라인
-- [Next.js를 사용하는 이유](./Frontend/Framework/whynext.md) — CoC, 라우팅, 렌더링 방식
+- [OAuth 2.0 Authorization Code Flow](./Frontend/OAuth.md)
+- [Service Worker](./Frontend/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%8C%EC%BB%A4.md)
+- [Web Worker](./Frontend/%EC%9B%B9%20%EC%9B%8C%EC%BB%A4.md)
 
 #### CSS
 
-- [px, em, rem 단위 비교](./Frontend/CSS/px,em,rem.md) — 상대/절대 단위의 차이
+- [px,em,rem](./Frontend/CSS/px%2Cem%2Crem.md)
+
+#### Framework
+
+- [Next.js 도입 배경과 장단점 정리](./Frontend/Framework/whynext.md)
+
+#### Rendering
+
+- [URI, URL, URN](./Frontend/Rendering/URI%2C%20URL%2C%20URN.md)
+- [웹 렌더링 패턴](./Frontend/Rendering/%EC%9B%B9%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%8C%A8%ED%84%B4.md)
+
+#### 모던리액트DeepDive
+
+- [가상DOM과 리액트 파이버](./Frontend/%EB%AA%A8%EB%8D%98%EB%A6%AC%EC%95%A1%ED%8A%B8DeepDive/%EA%B0%80%EC%83%81DOM%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%8C%8C%EC%9D%B4%EB%B2%84.md)
 
 <!-- TOC_END -->
 
