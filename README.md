@@ -27,6 +27,7 @@
 
 ### 🎨 Frontend
 
+- [OAuth,OIDC](./Frontend/OAuth%2COIDC.md)
 - [OAuth 2.0 Authorization Code Flow](./Frontend/OAuth.md)
 - [Service Worker](./Frontend/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%8C%EC%BB%A4.md)
 - [Web Worker](./Frontend/%EC%9B%B9%20%EC%9B%8C%EC%BB%A4.md)
@@ -46,7 +47,9 @@
 
 #### 모던리액트DeepDive
 
+- [Eslint 와 Prettier](./Frontend/%EB%AA%A8%EB%8D%98%EB%A6%AC%EC%95%A1%ED%8A%B8DeepDive/Eslint%20%EC%99%80%20Prettier.md)
 - [가상DOM과 리액트 파이버](./Frontend/%EB%AA%A8%EB%8D%98%EB%A6%AC%EC%95%A1%ED%8A%B8DeepDive/%EA%B0%80%EC%83%81DOM%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%8C%8C%EC%9D%B4%EB%B2%84.md)
+- [리액트 테스트 라이브러리](./Frontend/%EB%AA%A8%EB%8D%98%EB%A6%AC%EC%95%A1%ED%8A%B8DeepDive/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 
 <!-- TOC_END -->
 
