@@ -33,6 +33,10 @@
 - [Service Worker](./Frontend/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%8C%EC%BB%A4.md)
 - [Web Worker](./Frontend/%EC%9B%B9%20%EC%9B%8C%EC%BB%A4.md)
 
+#### Architecture
+
+- [자동완성 검색창(Autocomplete) 미니케이스 설계](./Frontend/Architecture/%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1%20%EA%B2%80%EC%83%89%EC%B0%BD(Autocomplete)%20%EB%AF%B8%EB%8B%88%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
+
 #### CSS
 
 - [px,em,rem](./Frontend/CSS/px%2Cem%2Crem.md)
